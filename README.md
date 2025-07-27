@@ -6,21 +6,28 @@
 
 Impossible Mission contains a total of 32 rooms.
 
-### Blue Rooms
+### Yellow Rooms (8)
 <IMG SRC="./room_screens/blue_room_1.png" alt="Blue Room 1: TITLE" width="533" height="329">
 <IMG SRC="./room_screens/blue_room_2.png" alt="Blue Room 2: TITLE" width="533" height="329">
 <IMG SRC="./room_screens/blue_room_3.png" alt="Blue Room 3: TITLE" width="533" height="329">
 
-### Blue Rooms
+Yellow Room 1 | Yellow Room 2
+:-----------------------------:|:-------------------------------:
+![](./room_screens/yellow_room_1.png)  |  ![](./room_screens/yellow_room_2.png)
+Yellow Room 3 | Yellow Room 4
+![](./room_screens/yellow_room_3.png)  |  ![](./room_screens/yellow_room_4.png)
+
+### Green Rooms (10)
 <IMG SRC="./room_screens/blue_room_1.png" alt="Blue Room 1: TITLE" width="400" height="400">
 <IMG SRC="./room_screens/blue_room_2.png" alt="Blue Room 2: TITLE" width="400" height="400">
 <IMG SRC="./room_screens/blue_room_3.png" alt="Blue Room 3: TITLE" width="400" height="400">
 
-### Blue Rooms
+### Blue Rooms (12)
 <IMG SRC="./room_screens/blue_room_1.png" alt="Blue Room 1: TITLE" width="400" height="400">
 <IMG SRC="./room_screens/blue_room_2.png" alt="Blue Room 2: TITLE" width="400" height="400">
 <IMG SRC="./room_screens/blue_room_3.png" alt="Blue Room 3: TITLE" width="400" height="400">
 
+### Code Rooms (2)
 Code Room (left-side entrance) | Code Room (right-side entrance)
 :-----------------------------:|:-------------------------------:
 ![](./room_screens/code_room_left.png)  |  ![](./room_screens/code_room_right.png)
