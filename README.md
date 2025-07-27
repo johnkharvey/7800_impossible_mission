@@ -29,6 +29,7 @@
  * I found a bug where if you get more than 9 Lift Inits, the number is recorded as ":".  I'm curious if the same happens for Snoozes and if the graphics change at 10, 11, 12, etc...
  * On the Game End screen, do "Passwords found" mean Passwords found only in furniture?  Or, also from the Code Room Games?  Does this number decrease if you use Passwords in the game?
  * Do difficulty switches make it so that you can't walk past Snooze'd robots?  Manual has no notes on Difficulty switch effect if any.
+ * Are the elevator colors all the same on reset?
 
 ## Interesting things in the Instruction Manual:
  * MIA9366B Pocket Computer
