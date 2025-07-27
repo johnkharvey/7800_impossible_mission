@@ -25,6 +25,10 @@ Impossible Mission contains a total of 32 rooms.
 <IMG SRC="./room_screens/code_room_left.png" alt="Code Room 1: Left-side Entry" width="400" height="400">
 <IMG SRC="./room_screens/code_room_right.png" alt="Code Room 2: Right-side Entry" width="400" height="400">
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](./room_screens/code_room_left.png)  |  ![](./room_screens/code_room_right.png)
+
 <!-- Images are 2,132 / 1316 pixels -->
 <!-- Half = 1066 / 658 -->
 <!-- Quarter = 533 / 329 -->
