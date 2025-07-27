@@ -46,7 +46,7 @@ Impossible Mission contains a total of 32 rooms.
 **Blue Room 9** | **Blue Room 10**
 ![](./room_screens/blue_room_9.png)  |  ![](./room_screens/blue_room_a.png)
 **Blue Room 11** | **Blue Room 12**
-![](./room_screens/blue_room_b.png)  |  ![](./room_screens/blue_room_c.png)
+![](./room_screens/blue_room_b.png)  |  ![](./room_screens/blue_room_c_elvin.png)
 
 ### Code Rooms (2)
 
