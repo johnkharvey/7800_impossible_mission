@@ -2,15 +2,19 @@
 
 *DISCLAIMER:* All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.
 
+![](../img/title_screen.png)
+
 ## Front Page
 
  * Learn about how to conquer each of the different type of [Rooms](html/ROOMS.md)
+ * Solving Puzzles
  * Fun [Tidbits](html/TIDBITS.md)
 
 ## Useful Links (external)
 
  * Atari 7800 Impossible Mission [Instruction Manual](https://www.thegameisafootarcade.com/wp-content/uploads/2017/02/Impossible-Mission-Game-Manual.pdf)
  * The [Commodore 64 Impossible Mission](https://www.c64-wiki.com/wiki/Impossible_Mission) Page
+ * Puzzle Pieces: https://www.reddit.com/r/c64/comments/122baww/impossible_mission_a_study_of_the_map_and_objects/
  * Notes from the author? (TBD)
  * Notes from Video 61 about the "bug" (TBD)
  * Notes about the history of Possible Mission ROMs (TBD)
@@ -52,4 +56,3 @@ Instructions say:
  * Upper left puzzle in memory windows is NOT the upper left puzzle in the selection window
  * There are 2 tips in there about crossing gaps and jumping with one foot off a lift.  Interesting tip.
  * The ball is called the "Floating orb"
-
