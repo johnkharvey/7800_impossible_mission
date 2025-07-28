@@ -1,8 +1,8 @@
 # Atari 7800 Impossible Mission - Walkthrough Guide
 
-*DISCLAIMER:* All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.
-
 ![](./img/title_screen.png)
+
+**DISCLAIMER:** *All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.*
 
 ## Front Page
 
