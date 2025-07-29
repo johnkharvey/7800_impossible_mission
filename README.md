@@ -6,7 +6,7 @@
 
 ## Front Page
 
- * Learn about how to conquer each of the different type of [Rooms](html/ROOMS.md)
+ * Learn about how to conquer each of the different type of [Rooms](html/all_rooms.md)
  * Solving Puzzles
  * Fun [Tidbits](html/TIDBITS.md)
 
@@ -16,9 +16,8 @@
  * The [Commodore 64 Impossible Mission](https://www.c64-wiki.com/wiki/Impossible_Mission) Page
  * Puzzle Pieces: https://www.reddit.com/r/c64/comments/122baww/impossible_mission_a_study_of_the_map_and_objects/
  * Notes from the author? (TBD)
- * Notes from Video 61 about the "bug" (TBD)
+ * [Notes from Video 61 about the "bug"](https://forums.atari.io/blogs/entry/546-raiders-of-the-lost-eproms-update/)
  * Notes about the history of Possible Mission ROMs (TBD)
-
 
 ## Other stuff I'm tracking
 
@@ -27,13 +26,50 @@
  * Are puzzle pieces really placed randomly in each room?  Or, are the locations always the same, but the layout of the rooms is different?
  * Tips for the hardest jumps and most difficult furniture to access in the game.  "Must Haves" for Snoozes.  Top 10 list of difficulty.
  * "What is each piece of furniture"?
- * "Fun" things you can do, like pushing the ball droid down off the bottom of the screen
+ * "Fun" things you can do, like pushing the ball droid down off the bottom of the screen.  You can also pop the orbs on the robots! (they come back if you leave the room)
  * I'm curious if the code screens eventually fill up to 20 tiles, and what happens if you get to 21.
  * Are the "random" map layouts really random, or are there say, a fixed 8 or 32 configurations?
  * I found a bug where if you get more than 9 Lift Inits, the number is recorded as ":".  I'm curious if the same happens for Snoozes and if the graphics change at 10, 11, 12, etc...
  * On the Game End screen, do "Passwords found" mean Passwords found only in furniture?  Or, also from the Code Room Games?  Does this number decrease if you use Passwords in the game?
  * Do difficulty switches make it so that you can't walk past Snooze'd robots?  Manual has no notes on Difficulty switch effect if any.
  * Are the elevator colors all the same on reset?
+
+Guide
+ * How many pieces of furntiture total?
+ --- ./img/room_screens/blue_room_1.png - 7
+ --- ./img/room_screens/blue_room_2.png - 4
+ --- ./img/room_screens/blue_room_3.png - 2
+ --- ./img/room_screens/blue_room_4.png - 4
+ --- ./img/room_screens/blue_room_5.png - 5
+ --- ./img/room_screens/blue_room_6.png - 3
+ --- ./img/room_screens/blue_room_7.png - 9
+ --- ./img/room_screens/blue_room_8.png - 5
+ --- ./img/room_screens/blue_room_9.png - 4
+ --- ./img/room_screens/blue_room_a.png - 5
+ --- ./img/room_screens/blue_room_b.png - 3
+ --- ./img/room_screens/blue_room_c_elvin.png - 2
+ - SUBTOTAL: 53
+ --- ./img/room_screens/green_room_1.png - 4
+ --- ./img/room_screens/green_room_2.png - 6 
+ --- ./img/room_screens/green_room_3.png - 6
+ --- ./img/room_screens/green_room_4.png - 3
+ --- ./img/room_screens/green_room_5.png - 6
+ --- ./img/room_screens/green_room_6.png - 5
+ --- ./img/room_screens/green_room_7.png - 4
+ --- ./img/room_screens/green_room_8.png - 3
+ --- ./img/room_screens/green_room_9.png - 3
+ --- ./img/room_screens/green_room_a.png - 5
+ - SUBTOTAL: 45
+ --- ./img/room_screens/yellow_room_1.png - 6
+ --- ./img/room_screens/yellow_room_2.png - 5
+ --- ./img/room_screens/yellow_room_3.png - 3
+ --- ./img/room_screens/yellow_room_4.png - 2
+ --- ./img/room_screens/yellow_room_5.png - 2
+ --- ./img/room_screens/yellow_room_6.png - 0
+ --- ./img/room_screens/yellow_room_7.png - 7
+ --- ./img/room_screens/yellow_room_8.png - 3
+ - SUBTOTAL: 28
+ - TOTAL: 126 pieces of furniture, 36 which have puzzle pieces (in a working game).  2 pieces for every 7 furniture items (expected)
 
 ## Interesting things in the Instruction Manual:
  * MIA9366B Pocket Computer

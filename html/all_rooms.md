@@ -1,6 +1,6 @@
 # Atari 7800 Impossible Mission - Walkthrough Guide
 
-*DISCLAIMER:* All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.
+**DISCLAIMER:** *All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.*
 
 ## Rooms
 
@@ -8,9 +8,9 @@ Impossible Mission contains a total of 32 rooms.
 
 ### Yellow Rooms (8)
 
-**Yellow Room 1** | **Yellow Room 2**
+**Yellow Room 1 - "Have a Ball"** | **Yellow Room 2**
 :-----------------------------:|:-------------------------------:
-![](../img/room_screens/yellow_room_1.png)  |  ![](../img/room_screens/yellow_room_2.png)
+[![](../img/room_screens/yellow_room_1.png)](./yellow_room_1.md)  |  ![](../img/room_screens/yellow_room_2.png)
 **Yellow Room 3** | **Yellow Room 4**
 ![](../img/room_screens/yellow_room_3.png)  |  ![](../img/room_screens/yellow_room_4.png)
 **Yellow Room 5** | **Yellow Room 6**
