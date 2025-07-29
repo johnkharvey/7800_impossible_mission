@@ -23,3 +23,6 @@ At this point, you can simply leave the room.  But, if you want to have some fun
 ------------
 
 ![Back to the main rooms page](./all_rooms.md)
+
+![Back to the main page](../README.md)
+
