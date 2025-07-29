@@ -6,6 +6,8 @@
 
 Impossible Mission contains a total of 32 rooms.
 
+There are 126 pieces of furniture scattered throughout the rooms.  In a working copy of the game (such as Impossible Mission's PAL version or Possible Mission), 36 puzzle pieces will be scattered throughout the rooms, yielding an average of 2 puzzle pieces found for every 7 furniture items searched in the map.
+
 ### Yellow Rooms (8)
 
 **Yellow Room 1 - "Have a Ball"** | **Yellow Room 2**
