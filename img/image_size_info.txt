@@ -6,3 +6,11 @@ SEARCH IMAGES:
  - 428 pixels wide
  - 210 pixels high
 
+DOUBLE PUZZLE PIECE:
+ - 320 pixels wide
+ - 296 pixels high
+
+SINGLE PUZZLE PIECE:
+ - 320 pixels wide
+ - 138 pixels high
+
