@@ -34,6 +34,11 @@ NOTE: Colors used to mean something in the C64; they would indicate the color ro
 
 ### What do puzzle pieces look like
 
+| Unoriented | Oriented | Molded | Complete |
+:-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------------:
+![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set1/oriented/complete_v1_01s.png) | TBD | TBD
+
+
 ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_01.png)
 ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_02.png)
 ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_03.png)

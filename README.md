@@ -95,3 +95,11 @@ Instructions say:
  * Upper left puzzle in memory windows is NOT the upper left puzzle in the selection window
  * There are 2 tips in there about crossing gaps and jumping with one foot off a lift.  Interesting tip.
  * The ball is called the "Floating orb"
+
+The Code Rooms are harder than the C64 version.  In those, the X's are color coded and correspond to 2 specific notes:
+ * https://www.lemon64.com/forum/viewtopic.php?t=76803
+In the 7800 version, all is white.
+
+Question: Is our top number of buttons 14?
+
+
