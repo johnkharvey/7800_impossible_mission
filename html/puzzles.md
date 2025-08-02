@@ -4,6 +4,12 @@
 
 ## How to Solve Puzzles
 
+### Molds
+
+### Pieces colored according to the room color?
+
+### What do puzzle pieces look like
+
 ![](../img/puzzle_pieces/complete_set/complete_v1_01.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_02.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_03.png)

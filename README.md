@@ -6,8 +6,8 @@
 
 ## Front Page
 
- * Learn about how to conquer each of the different type of [Rooms](html/all_rooms.md)
- * Solving Puzzles
+ * Surviving and searching each of the [Rooms](html/all_rooms.md)
+ * Solving [Puzzles](html/puzzles.md)
  * Fun [Tidbits](html/TIDBITS.md)
 
 ## Useful Links (external)
