@@ -4,7 +4,7 @@ SCREENSHOTS:
 
 SEARCH IMAGES:
  - 428 pixels wide
- - 210 pixels high
+ - 210 pixels high (snoozes is 212 high)
 
 DOUBLE PUZZLE PIECE:
  - 320 pixels wide
