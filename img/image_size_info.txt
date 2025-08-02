@@ -14,3 +14,11 @@ SINGLE PUZZLE PIECE:
  - 320 pixels wide
  - 138 pixels high
 
+COLOR BLIND PALETTES:
+ - https://venngage.com/blog/color-blind-friendly-palette/
+ - #F5793A (orange)
+ - #A95AA1 (light purple)
+ - #85C0F9 (light blue)
+ - #0F2080 (dark blue)
+
+
