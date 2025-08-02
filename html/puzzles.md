@@ -8,6 +8,7 @@ While playing the game, you will encounter a large amount of puzzle pieces.  Wha
 
 Here are some examples:
 
+:-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------------:
 ![](../img/puzzle_pieces/complete_set/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set/complete_v1_02.png) | ![](../img/puzzle_pieces/complete_set/complete_v1_03.png) | ![](../img/puzzle_pieces/complete_set/complete_v1_04.png)
 
 ### Molds
