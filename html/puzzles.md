@@ -2,6 +2,14 @@
 
 **DISCLAIMER:** *All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.*
 
+## Where do I get puzzle pieces?
+
+The Instruction Manual says that whenever searching furniture, you may encounter 3 items, but it provides no pictures as a reference.
+
+| Searching | Nothing Here | Snoozes | Lift Init | Puzzle Piece | 
+:----------:|:------------:|:-------:|:---------:|:-------------:
+![](../img/searching/searching.png) | ![](../img/searching/nothing_here.png) | ![](../img/searching/password_snoozes.png) | ![](../img/searching/password_lift_init.png) | ![](../img/searching/puzzle_piece.png)
+
 ## How to Solve Puzzles
 
 While playing the game, you will encounter a large amount of puzzle pieces.  What do they look like?
