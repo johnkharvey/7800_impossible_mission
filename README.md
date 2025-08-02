@@ -71,6 +71,9 @@ Guide
  - SUBTOTAL: 28
  - TOTAL: 126 pieces of furniture, 36 which have puzzle pieces (in a working game).  2 pieces for every 7 furniture items (expected)
 
+HOW LONG DO SNOOZES WORK FOR?
+HOW LONG TO SEARCH EVERY FURNITURE PIECE?
+
 ## Interesting things in the Instruction Manual:
  * MIA9366B Pocket Computer
  * 1.2 megaradians / forthnight
