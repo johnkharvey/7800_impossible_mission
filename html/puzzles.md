@@ -10,6 +10,12 @@ The Instruction Manual says that whenever searching furniture, you may encounter
 :----------:|:------------:|:-------:|:---------:|:-------------:
 ![](../img/searching/searching.png) | ![](../img/searching/nothing_here.png) | ![](../img/searching/password_snoozes.png) | ![](../img/searching/password_lift_init.png) | ![](../img/searching/puzzle_piece.png)
 
+You may wonder why the "Scissors cutting paper" icon is used to indicate puzzle pieces.  Well, the end result of putting 4 puzzle pieces together is a punchcard.  The icon is supposed to indicate that a punchcard has been cut into pieces.
+
+Here's what a solved Puzzle (completed punch card) made up of 4 different puzzle pieces looks like:
+
+INSERT HERE
+
 ## How to Solve Puzzles
 
 While playing the game, you will encounter a large amount of puzzle pieces.  What do they look like?
@@ -19,6 +25,8 @@ Here are some examples:
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 :-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------------:
 ![](../img/puzzle_pieces/complete_set/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set/complete_v1_02.png) | ![](../img/puzzle_pieces/complete_set/complete_v1_03.png) | ![](../img/puzzle_pieces/complete_set/complete_v1_04.png)
+
+NOTE: Colors used to mean something in the C64; they would indicate the color room that you came out of.  In this game, it's random.
 
 ### Molds
 
