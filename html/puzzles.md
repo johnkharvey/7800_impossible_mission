@@ -15,11 +15,7 @@
 ![](../img/puzzle_pieces/complete_set/complete_v1_09.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_10.png)
 
-![](../img/puzzle_pieces/raw2/complete_v1_01_02.png)
-![](../img/puzzle_pieces/raw2/complete_v1_03_04.png)
-![](../img/puzzle_pieces/raw2/complete_v1_05_06.png)
-![](../img/puzzle_pieces/raw2/complete_v1_07_08.png)
-![](../img/puzzle_pieces/raw2/complete_v1_09_10.png)
+--------------
 
 ![](../img/puzzle_pieces/complete_set/complete_v1_11.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_12.png)
@@ -32,11 +28,7 @@
 ![](../img/puzzle_pieces/complete_set/complete_v1_19.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_20.png)
 
-![](../img/puzzle_pieces/raw2/complete_v1_11_12.png)
-![](../img/puzzle_pieces/raw2/complete_v1_13_14.png)
-![](../img/puzzle_pieces/raw2/complete_v1_15_16.png)
-![](../img/puzzle_pieces/raw2/complete_v1_17_18.png)
-![](../img/puzzle_pieces/raw2/complete_v1_19_20.png)
+--------------
 
 ![](../img/puzzle_pieces/complete_set/complete_v1_21.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_22.png)
@@ -49,11 +41,7 @@
 ![](../img/puzzle_pieces/complete_set/complete_v1_29.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_30.png)
 
-![](../img/puzzle_pieces/raw2/complete_v1_21_22.png)
-![](../img/puzzle_pieces/raw2/complete_v1_23_24.png)
-![](../img/puzzle_pieces/raw2/complete_v1_25_26.png)
-![](../img/puzzle_pieces/raw2/complete_v1_27_28.png)
-![](../img/puzzle_pieces/raw2/complete_v1_29_30.png)
+---------------
 
 ![](../img/puzzle_pieces/complete_set/complete_v1_31.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_32.png)
@@ -61,11 +49,6 @@
 ![](../img/puzzle_pieces/complete_set/complete_v1_34.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_35.png)
 ![](../img/puzzle_pieces/complete_set/complete_v1_36.png)
-
-![](../img/puzzle_pieces/raw2/complete_v1_31_32.png)
-![](../img/puzzle_pieces/raw2/complete_v1_33_34.png)
-![](../img/puzzle_pieces/raw2/complete_v1_35_36.png)
-
 
 
 ------------
