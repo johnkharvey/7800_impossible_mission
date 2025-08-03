@@ -26,6 +26,15 @@ Here are some examples:
 :-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------------:
 ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_02.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_03.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_04.png)
 
+The next begged question would be... "what is the end result supposed to look like?"  Below are some examples of finished Puzzles:
+
+| &nbsp; | &nbsp; | &nbsp; |
+:----------:|:------------:|:-------------:
+![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/punchcard2_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece3/punchcard3_v1.png) 
+![](../img/puzzle_pieces/complete_set1/combos/piece4/punchcard4_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece5/punchcard5_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece6/punchcard6_v1.png) 
+![](../img/puzzle_pieces/complete_set1/combos/piece7/punchcard7_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece8/punchcard8_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece9/punchcard9_v1.png)
+
+
 NOTE: Colors used to mean something in the C64; they would indicate the color room that you came out of.  In this game, it's random.
 
 ### Molds
