@@ -24,7 +24,7 @@ Here are some examples:
 
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 :-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------------:
-![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_02.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_03.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_04.png)
+![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_02.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_03.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_27.png)
 
 The next begged question would be... "what is the end result supposed to look like?"  Below are some examples of finished Puzzles:
 
