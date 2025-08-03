@@ -44,8 +44,8 @@ So, how to we get from Puzzle Pieces to finished Punchcards?
 
 | &nbsp; | **Piece A** | **Piece B** | **Piece C** | **Piece D**
 :-------:|:-----------:|:-----------:|:-----------:|:------------:
-Found piece | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_06.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_08.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_12.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_32.png)
-Reoriented and common color | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_06t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_08t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_32t.png)
+Found piece | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_12.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_08.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_06.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_32.png)
+Reoriented and common color | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_08t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_06t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_32t.png)
 Mold A | TBD | TBD | TBD | TBD
 Mold B | TBD | TBD | TBD | TBD
 Mold A Fusion | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo2.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo2.png)
