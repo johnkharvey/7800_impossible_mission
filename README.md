@@ -8,7 +8,8 @@
 
  * Surviving and searching each of the [Rooms](html/all_rooms.md)
  * Solving [Puzzles](html/puzzles.md)
- * Fun [Tidbits](html/TIDBITS.md)
+ * Known [Bugs](html/bugs.md)
+ * Fun [stuff](html/fun_stuff.md)
 
 ## Useful Links (external)
 
