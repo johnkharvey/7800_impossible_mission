@@ -40,9 +40,67 @@ So, how to we get from Puzzle Pieces to finished Punchcards?
 
 ### Molds
 
-### Pieces colored according to the room color?
+### Solving Puzzles - A Complete Example
 
-### What do puzzle pieces look like
+| &nbsp; | **Piece A** | **Piece B** | **Piece C** | **Piece D**
+:-------:|:-----------:|:-----------:|:-----------:|:------------:
+Found piece | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_06.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_08.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_12.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_32.png)
+Reoriented and common color | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_06t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_08t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_32t.png)
+Mold A | TBD | TBD | TBD | TBD
+Mold B | TBD | TBD | TBD | TBD
+Mold A Fusion | TBD | TBD | TBD | TBD
+Completed | TBD | ![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png) | TBD | ![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png)
+
+### Other Stuff
+
+../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_05t.png
+../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_28t.png
+../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_29t.png
+../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_31t.png
+../img/puzzle_pieces/complete_set1/combos/piece2/punchcard2_v1.png
+
+../img/puzzle_pieces/complete_set1/combos/piece3/complete_v1_02t.png
+../img/puzzle_pieces/complete_set1/combos/piece3/complete_v1_09t.png
+../img/puzzle_pieces/complete_set1/combos/piece3/complete_v1_18t.png
+../img/puzzle_pieces/complete_set1/combos/piece3/complete_v1_35t.png
+../img/puzzle_pieces/complete_set1/combos/piece3/punchcard3_v1.png
+
+../img/puzzle_pieces/complete_set1/combos/piece4/complete_v1_20t.png
+../img/puzzle_pieces/complete_set1/combos/piece4/complete_v1_23t.png
+../img/puzzle_pieces/complete_set1/combos/piece4/complete_v1_27t.png
+../img/puzzle_pieces/complete_set1/combos/piece4/complete_v1_36t.png
+../img/puzzle_pieces/complete_set1/combos/piece4/punchcard4_v1.png
+
+../img/puzzle_pieces/complete_set1/combos/piece5/complete_v1_04t.png
+../img/puzzle_pieces/complete_set1/combos/piece5/complete_v1_11t.png
+../img/puzzle_pieces/complete_set1/combos/piece5/complete_v1_15t.png
+../img/puzzle_pieces/complete_set1/combos/piece5/complete_v1_17t.png
+../img/puzzle_pieces/complete_set1/combos/piece5/punchcard5_v1.png
+
+../img/puzzle_pieces/complete_set1/combos/piece6/complete_v1_07t.png
+../img/puzzle_pieces/complete_set1/combos/piece6/complete_v1_10t.png
+../img/puzzle_pieces/complete_set1/combos/piece6/complete_v1_24t.png
+../img/puzzle_pieces/complete_set1/combos/piece6/complete_v1_26t.png
+../img/puzzle_pieces/complete_set1/combos/piece6/punchcard6_v1.png
+
+../img/puzzle_pieces/complete_set1/combos/piece7/complete_v1_13t.png
+../img/puzzle_pieces/complete_set1/combos/piece7/complete_v1_25t.png
+../img/puzzle_pieces/complete_set1/combos/piece7/complete_v1_33t.png
+../img/puzzle_pieces/complete_set1/combos/piece7/complete_v1_34t.png
+../img/puzzle_pieces/complete_set1/combos/piece7/punchcard7_v1.png
+
+../img/puzzle_pieces/complete_set1/combos/piece8/complete_v1_01t.png
+../img/puzzle_pieces/complete_set1/combos/piece8/complete_v1_14t.png
+../img/puzzle_pieces/complete_set1/combos/piece8/complete_v1_21t.png
+../img/puzzle_pieces/complete_set1/combos/piece8/complete_v1_22t.png
+../img/puzzle_pieces/complete_set1/combos/piece8/punchcard8_v1.png
+
+../img/puzzle_pieces/complete_set1/combos/piece9/complete_v1_03t.png
+../img/puzzle_pieces/complete_set1/combos/piece9/complete_v1_16t.png
+../img/puzzle_pieces/complete_set1/combos/piece9/complete_v1_19t.png
+../img/puzzle_pieces/complete_set1/combos/piece9/complete_v1_30t.png
+../img/puzzle_pieces/complete_set1/combos/piece9/punchcard9_v1.png
+
 
 | Unoriented | Oriented / one color | Molded | Complete |
 :-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------------:
