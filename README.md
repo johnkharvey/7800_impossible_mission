@@ -102,4 +102,7 @@ In the 7800 version, all is white.
 
 Question: Is our top number of buttons 14?
 
+Can we break the game if we get too many Snoozes / Lift Inits?  Cause a buffer overflow?
+You always get a Lift Init first in a Code Room, then after that it alternates
+In the C64 version, Snoozes stop Floating Orbs, but touching them will still kill you.  Same?
 
