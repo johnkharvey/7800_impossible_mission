@@ -26,7 +26,9 @@ Here are some examples:
 :-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------------:
 ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_02.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_03.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_27.png)
 
-The next begged question would be... "what is the end result supposed to look like?"  Below are some examples of finished Puzzles:
+On the Atari 7800 version of Impossible Mission, puzzle pieces only come in 3 colors: Red, Yellow, and Green.  In other versions of the game, the color of the puzzle piece is supposed to indicate what color room the puzzle piece was found in.  However, in the Atari 7800 version, the same room will yield any color of piece; it is all random and not tied ot the room colors.
+
+The next begged question would be... "what is the end result supposed to look like?"  Below are some examples of finished Puzzles.  They are supposed to look like old computer punchcards.  If you don't know what those look like [here](https://en.wikipedia.org/wiki/Punched_card#/media/File:IBM1130CopyCard.agr.jpg) is an example.
 
 | &nbsp; | &nbsp; | &nbsp; |
 :----------:|:------------:|:-------------:
@@ -34,8 +36,7 @@ The next begged question would be... "what is the end result supposed to look li
 ![](../img/puzzle_pieces/complete_set1/combos/piece4/punchcard4_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece5/punchcard5_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece6/punchcard6_v1.png) 
 ![](../img/puzzle_pieces/complete_set1/combos/piece7/punchcard7_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece8/punchcard8_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece9/punchcard9_v1.png)
 
-
-NOTE: Colors used to mean something in the C64; they would indicate the color room that you came out of.  In this game, it's random.
+So, how to we get from Puzzle Pieces to finished Punchcards?
 
 ### Molds
 
