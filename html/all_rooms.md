@@ -15,7 +15,7 @@ There are 126 pieces of furniture scattered throughout the rooms.  In a working 
 [![](../img/room_screens/yellow_room_1.png)](./yellow_room_1.md)  |  ![](../img/room_screens/yellow_room_2.png)
 **Yellow Room 3** | **Yellow Room 4**
 ![](../img/room_screens/yellow_room_3.png)  |  ![](../img/room_screens/yellow_room_4.png)
-**Yellow Room 5** | **Yellow Room 6**
+**Yellow Room 5** | **Yellow Room 6 - Just Passing Through**
 ![](../img/room_screens/yellow_room_5.png)  |  ![](../img/room_screens/yellow_room_6.png)
 **Yellow Room 7** | **Yellow Room 8**
 ![](../img/room_screens/yellow_room_7.png)  |  ![](../img/room_screens/yellow_room_8.png)
