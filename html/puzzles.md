@@ -57,7 +57,7 @@ So, how to we get from Puzzle Pieces to finished Punchcards?
 
 | &nbsp; | **Piece A** | **Piece B** | **Piece C** | **Piece D**
 :-------:|:-----------:|:-----------:|:-----------:|:------------:
-**Piece 1** | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_28t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_05t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_29t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_31t.png)
+**Piece 1** | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_06t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_08t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_32t.png)
 **Piece 2** | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_05t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_28t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_29t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_31t.png)
 **Piece 3** | ![](../img/puzzle_pieces/complete_set1/combos/piece3/complete_v1_02t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece3/complete_v1_09t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece3/complete_v1_18t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece3/complete_v1_35t.png)
 **Piece 4** | ![](../img/puzzle_pieces/complete_set1/combos/piece4/complete_v1_20t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece4/complete_v1_23t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece4/complete_v1_27t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece4/complete_v1_36t.png)
