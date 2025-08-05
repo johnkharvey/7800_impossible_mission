@@ -40,6 +40,13 @@ So, how to we get from Puzzle Pieces to finished Punchcards?
 
 ### Molds
 
+| &nbsp; | **1** | **2** | **3** | **4**
+:-------:|:-----------:|:-----------:|:-----------:|:------------:
+*A* | ![](../img/puzzle_pieces/molds/mold_a1.png) | ![](../img/puzzle_pieces/molds/mold_a2.png) | ![](../img/puzzle_pieces/molds/mold_a3.png) | TBD
+*B* | ![](../img/puzzle_pieces/molds/mold_b1.png) | ![](../img/puzzle_pieces/molds/mold_b2.png) | TBD | TBD
+*C* | ![](../img/puzzle_pieces/molds/mold_c1.png) | TBD | TBD | ![](../img/puzzle_pieces/molds/mold_c4.png) 
+*D* | TBD | ![](../img/puzzle_pieces/molds/mold_d2.png) | ![](../img/puzzle_pieces/molds/mold_d3.png) | TBD
+
 ### Solving Puzzles - A Complete Example
 
 | &nbsp; | **Piece A** | **Piece B** | **Piece C** | **Piece D**
