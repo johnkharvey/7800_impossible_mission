@@ -4,17 +4,21 @@
 
 ## Where do I get puzzle pieces?
 
-The Instruction Manual says that whenever searching furniture, you may encounter 3 items, but it provides no pictures as a reference.
+The Instruction Manual says that whenever searching furniture, you may encounter 3 types of items, yet the manual itself provides no pictures as references.  Below is a table showing what you may see on-screen when pressing the "up" botton next to furniture in the game:
 
 | Searching | Nothing Here | Snoozes | Lift Init | Puzzle Piece | 
 :----------:|:------------:|:-------:|:---------:|:-------------:
 ![](../img/searching/searching.png) | ![](../img/searching/nothing_here.png) | ![](../img/searching/password_snoozes.png) | ![](../img/searching/password_lift_init.png) | ![](../img/searching/puzzle_piece.png)
 
-You may wonder why the "Scissors cutting paper" icon is used to indicate puzzle pieces.  Well, the end result of putting 4 puzzle pieces together is a punchcard.  The icon is supposed to indicate that a punchcard has been cut into pieces.
+You may wonder why the "Scissors cutting paper" icon is used to indicate puzzle pieces.  Well, the end result of putting 4 puzzle pieces together is a punchcard.  What is a punchcard?  Younger players may not realize that in the early days of computing, paper cards with holes in them were used to program machines.  Whole programs would be written on stacks of cards with these holes punched out.  Here is an example of what they look like (from wikipedia):
 
-Here's what a solved Puzzle (completed punch card) made up of 4 different puzzle pieces looks like:
+![here](https://en.wikipedia.org/wiki/Punched_card#/media/File:IBM1130CopyCard.agr.jpg)
 
-INSERT HERE
+In the game itself, a completed punch card looks like the this:
+ 
+![](../img/puzzle_pieces/complete_set1/combos/piece7/punchcard7_v1.png)
+
+In the game, Elvin Atombender took 9 punchcards that when combined created a 9-digit passcode and cut each of them up into four pieces.  That's why there is a scissors on the icon; it indicates that this is part of a punchcard that has been cut up.
 
 ## How to Solve Puzzles
 
@@ -27,14 +31,6 @@ Here are some examples:
 ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_02.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_03.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_27.png)
 
 On the Atari 7800 version of Impossible Mission, puzzle pieces only come in 3 colors: Red, Yellow, and Green.  In other versions of the game, the color of the puzzle piece is supposed to indicate what color room the puzzle piece was found in.  However, in the Atari 7800 version, the same room will yield any color of piece; it is all random and not tied ot the room colors.
-
-The next begged question would be... "what is the end result supposed to look like?"  Below are some examples of finished Puzzles.  They are supposed to look like old computer punchcards.  If you don't know what those look like [here](https://en.wikipedia.org/wiki/Punched_card#/media/File:IBM1130CopyCard.agr.jpg) is an example.
-
-| &nbsp; | &nbsp; | &nbsp; |
-:----------:|:------------:|:-------------:
-![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/punchcard2_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece3/punchcard3_v1.png) 
-![](../img/puzzle_pieces/complete_set1/combos/piece4/punchcard4_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece5/punchcard5_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece6/punchcard6_v1.png) 
-![](../img/puzzle_pieces/complete_set1/combos/piece7/punchcard7_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece8/punchcard8_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece9/punchcard9_v1.png)
 
 So, how to we get from Puzzle Pieces to finished Punchcards?
 
