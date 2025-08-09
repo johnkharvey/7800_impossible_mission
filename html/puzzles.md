@@ -84,6 +84,8 @@ This means there are a lot of things that can go wrong.  However, a lot of thing
 
 ### Try it yourself!  The above puzzle corresponds to a Save Game.
 
+The above puzzle corresponds to a Save Game.  [Download](../savegame/1.sta) the file and play on [a7800](https://7800.8bitdev.org/index.php/A7800_Emulator) using the ROM "Possible Mission (Propane13)"
+
 -------------------
 
 ### All Puzzle Pieces - EXAMPLE 2
@@ -100,10 +102,23 @@ This means there are a lot of things that can go wrong.  However, a lot of thing
 **Puzzle 8** | ![](../img/puzzle_pieces/complete_set2/combos/piece8/complete_v2_22t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece8/complete_v2_19t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece8/complete_v2_01t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece8/complete_v2_27t.png) | ![](../img/puzzle_pieces/molds/mold_c4.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece8/combo1.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece8/combo2.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece8/punchcard8_v2.png)
 **Puzzle 9** | ![](../img/puzzle_pieces/complete_set2/combos/piece9/complete_v2_20t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece9/complete_v2_13t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece9/complete_v2_06t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece9/complete_v2_21t.png) | ![](../img/puzzle_pieces/molds/mold_c2.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece9/combo1.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece9/combo2.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece9/punchcard9_v2.png)
 
-### Try it yourself!  The above puzzle corresponds to a Save Game.
+### Try it yourself!
+
+The above puzzle corresponds to a Save Game.  [Download](../savegame/2.sta) the file and play on [a7800](https://7800.8bitdev.org/index.php/A7800_Emulator) using the ROM "Possible Mission (Propane13)"
+
+------------------
+
+### Try a puzzle without cheating!
+
+[Download](../savegame/3.sta) this special Save Game file and play on [a7800](https://7800.8bitdev.org/index.php/A7800_Emulator) using the ROM "Possible Mission (Propane13)" to try out a set of 36 already-found puzzle pieces with no solution guide!
 
 -------------------
 ## Special Thanks
+
+None of this would have been possible without the following links:
+
+ * ![](https://www.c64-wiki.com/wiki/Impossible_Mission) - The Commodore 64 Impossible Mission Wiki Page
+ * ![](https://www.reddit.com/r/c64/comments/122baww/impossible_mission_a_study_of_the_map_and_objects/} - A reddit post with one specifc example of a Commodore 64 Impossible Mission Puzzle solution
 
 -------------------
 
