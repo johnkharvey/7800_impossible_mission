@@ -51,7 +51,7 @@ There are 16 "molds" in the game.  Think of them like Cookie Cutters.  When Elvi
  * There are situations where you may create a full punchcard, but it's incorect. Each punchcard is made up of 4 specific, known pieces.  Let's say of the 36 pieces, the game knows that piece 4, 7, 22, and 29 are needed for a solution.  If, somehow you cobble together a punch-card that uses the wrong four pieces, the game will not count it as complete no matter how you reorient it.  This is a very rare situation that can occur.
  * Unline the above problem, there are pieces that can be reflected and inserted into a puzzle two ways.  Only one way is correct.  See below for an example:
 
-![]../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png
+![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png)
 
 This means there are a lot of things that can go wrong.  However, a lot of things can go very right, now that you know the secret of trying to replicate mold patterns and then try to find their matching half.
 
@@ -61,8 +61,8 @@ This means there are a lot of things that can go wrong.  However, a lot of thing
 :-------:|:-----------:|:-----------:|:-----------:|:------------:
 **Found piece** | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_06.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_32.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_12.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_08.png)
 **Reoriented and common color** | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_06t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_32t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_08t.png)
-**Primary Mold (first cut)** | ![](../img/puzzle_pieces/complete_set1/molds/mold_a1.png) |  ![](../img/puzzle_pieces/complete_set1/molds/mold_a1.png) |  ![](../img/puzzle_pieces/complete_set1/molds/mold_a1.png) |  ![](../img/puzzle_pieces/complete_set1/molds/mold_a1.png)
-**Secondary Mold (second cut)** | TBD | TBD | TBD | TBD
+**Primary Mold (first cut)** | ![](../img/puzzle_pieces/molds/mold_a1.png) |  ![](../img/puzzle_pieces/molds/mold_a1.png) |  ![](../img/puzzle_pieces/molds/mold_a1.png) |  ![](../img/puzzle_pieces/molds/mold_a1.png)
+**Secondary Mold (second cut)** | ![](../img/puzzle_pieces/molds/mold_c3.png) |  ![](../img/puzzle_pieces/molds/mold_c3.png) |  ![](../img/puzzle_pieces/molds/mold_c1.png) |  ![](../img/puzzle_pieces/molds/mold_c1.png)
 **Assembling 2 pieces** | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo2.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo2.png)
 **Completed** | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo_4color.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo_4color.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png)
 
