@@ -117,8 +117,8 @@ The above puzzle corresponds to a Save Game.  [Download](../savegame/2.sta) the 
 
 None of this would have been possible without the following links:
 
- * ![](https://www.c64-wiki.com/wiki/Impossible_Mission) - The Commodore 64 Impossible Mission Wiki Page
- * ![](https://www.reddit.com/r/c64/comments/122baww/impossible_mission_a_study_of_the_map_and_objects/) - A reddit post with one specifc example of a Commodore 64 Impossible Mission Puzzle solution
+ * [](https://www.c64-wiki.com/wiki/Impossible_Mission) - The Commodore 64 Impossible Mission Wiki Page
+ * [](https://www.reddit.com/r/c64/comments/122baww/impossible_mission_a_study_of_the_map_and_objects/) - A reddit post with one specifc example of a Commodore 64 Impossible Mission Puzzle solution
 
 -------------------
 
