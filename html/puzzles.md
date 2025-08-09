@@ -31,9 +31,9 @@ Here are some examples:
 :-----------------------------:|:-------------------------------:|:-----------------------------:|:-------------------------------:
 ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_01.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_02.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_03.png) | ![](../img/puzzle_pieces/complete_set1/unoriented/complete_v1_27.png)
 
-On the Atari 7800 version of Impossible Mission, puzzle pieces only come in 3 colors: Red, Yellow, and Green.  In other versions of the game, the color of the puzzle piece is supposed to indicate what color room the puzzle piece was found in.  However, in the Atari 7800 version, the same room will yield any color of piece; it is all random and not tied ot the room colors.
+On the Atari 7800 version of Impossible Mission, puzzle pieces only come in 3 colors: Red, Yellow, and Green.  In other versions of the game, the color of the puzzle piece is supposed to indicate what color room the puzzle piece was found in.  However, in the Atari 7800 version, the same room will yield any color of piece; it is all random and not tied to the room colors.
 
-So, how to we get from Puzzle Pieces to finished Punchcards?
+So, how to we get from Puzzle Pieces to finished Punchcards?  Molds!
 
 ### Molds
 
@@ -43,6 +43,17 @@ So, how to we get from Puzzle Pieces to finished Punchcards?
 **B** | ![](../img/puzzle_pieces/molds/mold_b1.png) | ![](../img/puzzle_pieces/molds/mold_b2.png) | ![](../img/puzzle_pieces/molds/mold_b3.png) | ![](../img/puzzle_pieces/molds/mold_b4.png)
 **C** | ![](../img/puzzle_pieces/molds/mold_c1.png) | ![](../img/puzzle_pieces/molds/mold_c2.png) | ![](../img/puzzle_pieces/molds/mold_c3.png) | ![](../img/puzzle_pieces/molds/mold_c4.png) 
 **D** | ![](../img/puzzle_pieces/molds/mold_d1.png) | ![](../img/puzzle_pieces/molds/mold_d2.png) | ![](../img/puzzle_pieces/molds/mold_d3.png) | ![](../img/puzzle_pieces/molds/mold_d4.png)
+
+There are 16 "molds" in the game.  Think of them like Cookie Cutters.  When Elvin cut up his punchcards, he did so in a way that makes it easier to solve them.  Each initial cut wwas done with a unuqie cookie cutter / mold to divide it into two pieces.  Then, each half was cut a second time with another different cookie cutter / mold.  This may seem like a lot of information, but the important point is that it creates something you can work from.  Each puzzle piece in the game can be paired with another to make a design that corresponds to one of these molds.  These 9 molds will be unique; they won't repeat.  But, since molds are reused for secondary cuts, this does cause some trickiness:
+
+ * First, the color of the punchcard doesn't matter.  I always make my puzzle pieces yellow so that I can see them better, and they always generate working punchcards when assembled correctly.
+ * It is possible that you can line up 2 pieces and make something that matches a mold / cookie cutter layout, but have that be an incorrect pairing.  Sometimes two secondary cuts use the same mold and line up perfectly.  You will know that this has occurred when you can't find the other two pieces that make the other half of the mold.
+ * There are situations where you may create a full punchcard, but it's incorect. Each punchcard is made up of 4 specific, known pieces.  Let's say of the 36 pieces, the game knows that piece 4, 7, 22, and 29 are needed for a solution.  If, somehow you cobble together a punch-card that uses the wrong four pieces, the game will not count it as complete no matter how you reorient it.  This is a very rare situation that can occur.
+ * Unline the above problem, there are pieces that can be reflected and inserted into a puzzle two ways.  Only one way is correct.  See below for an example:
+
+![]../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png
+
+This means there are a lot of things that can go wrong.  However, a lot of things can go very right, now that you know the secret of trying to replicate mold patterns and then try to find their matching half.
 
 ### Solving Puzzles - A Complete Example
 
