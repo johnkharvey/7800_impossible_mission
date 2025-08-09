@@ -45,7 +45,7 @@ So, how to we get from Puzzle Pieces to finished Punchcards?
 *A* | ![](../img/puzzle_pieces/molds/mold_a1.png) | ![](../img/puzzle_pieces/molds/mold_a2.png) | ![](../img/puzzle_pieces/molds/mold_a3.png) | TBD
 *B* | ![](../img/puzzle_pieces/molds/mold_b1.png) | ![](../img/puzzle_pieces/molds/mold_b2.png) | ![](../img/puzzle_pieces/molds/mold_b3.png) | TBD
 *C* | ![](../img/puzzle_pieces/molds/mold_c1.png) | ![](../img/puzzle_pieces/molds/mold_c2.png) | ![](../img/puzzle_pieces/molds/mold_c3.png) | ![](../img/puzzle_pieces/molds/mold_c4.png) 
-*D* | ![](../img/puzzle_pieces/molds/mold_d1.png) | ![](../img/puzzle_pieces/molds/mold_d2.png) | ![](../img/puzzle_pieces/molds/mold_d3.png) | TBD
+*D* | ![](../img/puzzle_pieces/molds/mold_d1.png) | ![](../img/puzzle_pieces/molds/mold_d2.png) | ![](../img/puzzle_pieces/molds/mold_d3.png) | ![](../img/puzzle_pieces/molds/mold_d4.png)
 
 ### Solving Puzzles - A Complete Example
 
