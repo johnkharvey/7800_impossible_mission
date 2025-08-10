@@ -64,13 +64,13 @@ This means there are a lot of things that can go wrong.  However, a lot of thing
 **Primary Mold (first cut)** | ![](../img/puzzle_pieces/molds/mold_a1.png) |  ![](../img/puzzle_pieces/molds/mold_a1.png) |  ![](../img/puzzle_pieces/molds/mold_a1.png) |  ![](../img/puzzle_pieces/molds/mold_a1.png)
 **Secondary Mold (second cut)** | ![](../img/puzzle_pieces/molds/mold_c2.png) |  ![](../img/puzzle_pieces/molds/mold_c2.png) |  ![](../img/puzzle_pieces/molds/mold_c1.png) |  ![](../img/puzzle_pieces/molds/mold_c1.png)
 **Assembling 2 pieces** | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo2.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo2.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo1.png)
-**Completed** | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo_4color.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo_4color.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png)
+**Final** | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo_4color.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo_4color.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/punchcard1_v1.png)
 
 ----------------------
 
 ### All Puzzle Pieces - EXAMPLE 1
 
-| &nbsp; | **Piece A** | **Piece B** | **Piece C** | **Piece D** | **Mold** | **Half 1** | **Half 2** | **Completed**
+| &nbsp; | **Piece A** | **Piece B** | **Piece C** | **Piece D** | **Mold** | **Half 1** | **Half 2** | **Final**
 :-------:|:-----------:|:-----------:|:-----------:|:-----------:|:--------:|:----------:|:----------:|:--------------:
 **Puzzle 1** | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_12t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_08t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_06t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/complete_v1_32t.png) | ![](../img/puzzle_pieces/molds/mold_a1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece1/combo2.png) | TBD
 **Puzzle 2** | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_05t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_31t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_29t.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/complete_v1_28t.png) | ![](../img/puzzle_pieces/molds/mold_a2.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/combo1.png) | ![](../img/puzzle_pieces/complete_set1/combos/piece2/combo2.png) | TBD
@@ -90,7 +90,7 @@ The above puzzle corresponds to a Save Game.  [Download](../savegame/1.sta) the 
 
 ### All Puzzle Pieces - EXAMPLE 2
 
-| &nbsp; | **Piece A** | **Piece B** | **Piece C** | **Piece D** | **Mold** | **Half 1** | **Half 2** | **Completed**
+| &nbsp; | **Piece A** | **Piece B** | **Piece C** | **Piece D** | **Mold** | **Half 1** | **Half 2** | **Final**
 :-------:|:-----------:|:-----------:|:-----------:|:-----------:|:--------:|:----------:|:----------:|:--------------:
 **Puzzle 1** | ![](../img/puzzle_pieces/complete_set2/combos/piece1/complete_v2_09t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece1/complete_v2_07t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece1/complete_v2_03t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece1/complete_v2_30t.png) | ![](../img/puzzle_pieces/molds/mold_c3.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece1/combo1.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece1/combo2.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece1/punchcard1_v2.png)
 **Puzzle 2** | ![](../img/puzzle_pieces/complete_set2/combos/piece2/complete_v2_32t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece2/complete_v2_16t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece2/complete_v2_12t.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece2/complete_v2_36t.png) | ![](../img/puzzle_pieces/molds/mold_b1.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece2/combo1.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece2/combo2.png) | ![](../img/puzzle_pieces/complete_set2/combos/piece2/punchcard2_v2.png)
