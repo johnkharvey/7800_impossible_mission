@@ -2,6 +2,8 @@
 
 **DISCLAIMER:** *All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.*
 
+# Puzzle Pieces
+
 ## Where do I get puzzle pieces?
 
 The Instruction Manual says that whenever searching furniture, you may encounter 3 types of items, yet the manual itself provides no pictures as references.  Below is a table showing what you may see on-screen when pressing the "up" botton next to furniture in the game:
