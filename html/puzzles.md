@@ -12,7 +12,7 @@ The Instruction Manual says that whenever searching furniture, you may encounter
 
 You may wonder why the "Scissors cutting paper" icon is used to indicate puzzle pieces.  Well, the end result of putting 4 puzzle pieces together is a punchcard.  What is a punchcard?  Younger players may not realize that in the early days of computing, paper cards with holes in them were used to program machines.  Whole programs would be written on stacks of cards with these holes punched out.  Here is an example of what they look like (from wikipedia):
 
-![](../img/IBM1130CopyCard.agr.jpg)
+![](../img/external_reference/IBM1130CopyCard.agr.jpg)
 (The above image came from [Wikipedia](https://upload.wikimedia.org/wikipedia/commons/d/d8/IBM1130CopyCard.agr.jpg))
 
 In the game itself, a completed punch card looks like the this:
