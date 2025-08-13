@@ -8,7 +8,7 @@ SEARCH IMAGES:
 
 DOUBLE PUZZLE PIECE:
  - 320 pixels wide
- - 296 pixels high
+ - 298 pixels high (or 296 pixels high)
 
 SINGLE PUZZLE PIECE:
  - 320 pixels wide
@@ -21,4 +21,6 @@ COLOR BLIND PALETTES:
  - #85C0F9 (light blue)
  - #0F2080 (dark blue)
 
-
+ELEVATOR WITH SHAFT:
+ - 426 pixels high
+ - 634 pixels high
