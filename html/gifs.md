@@ -15,10 +15,11 @@
 
 ![](../gifs/yellow_room_3_high_jump_fail_long.gif)
 ![](../gifs/yellow_room_3_high_jump_fail_short.gif)
-![](../gifs/yellow_room_3_high_jump_success.gif)
 
 -----------------
 
-![](../gifs/0000-ezgif.com-loop-count.gif)
-![](../gifs/0001-ezgif.com-loop-count.gif)
+![](../gifs/yellow_room_3_high_jump_success.gif)
+![](../gifs/yellow_room_3_high_jump_success2.gif)
+
+-----------------
 
