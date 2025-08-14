@@ -28,7 +28,7 @@
 
 -----------------
 
-![](..gifs/blue_room_9_half_jump.gif)
+![](../gifs/blue_room_9_half_jump.gif)
 
 -----------------
 
