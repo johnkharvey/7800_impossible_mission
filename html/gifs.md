@@ -23,3 +23,8 @@
 
 -----------------
 
+![](../gifs/blue_room_9_easy_way.gif)
+![](../gifs/blue_room_9_hard_way.gif)
+
+-----------------
+
