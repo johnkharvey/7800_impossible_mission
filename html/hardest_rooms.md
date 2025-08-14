@@ -9,13 +9,6 @@
 Let's break this down via a Top Ten List.
 
 
-
-
-
-# GIF animations
-
-![](../gifs/blue_room_6_walking.gif)
-
 ------------------
 
 ![](../gifs/blue_room_9_easy_way.gif)
@@ -24,6 +17,20 @@ Let's break this down via a Top Ten List.
 -----------------
 
 ![](../gifs/blue_room_9_half_jump.gif)
+
+-----------------
+
+## NUMBER THREE: Blue Room 6.
+
+This room isn't too hard; that is, unless you need to search the chair at the top-right of the screen.
+
+This is the only place in the game with holes between the ledges this near to each other.  Can you simply just run across them by holding the joystick to the right?  No, you cannot-- you will fall.  Can you simply perform a series of jumps?  You can-- but it's very risky and more than likely you'll fall.  Many a player has fallen through to the level below, costing them a LIFT INIT or a life if they accidentally touch the robot on the next level.
+
+However, there is a secret.  You have to walk between each level, stop, center yourself, and go again.  See below:
+
+![](../gifs/blue_room_6_walking.gif)
+
+Does the above shuffle-step work?  Yes.  Is it worth it?  Maybe not.  I usually save this room for later; if I am missing puzzle pieces I will enter this room with a few LIFT INITS just in case.  Your pulse may be pounding when walking across the chasm, but take your time.  It can be done!  You just have to know the trick.
 
 -----------------
 
