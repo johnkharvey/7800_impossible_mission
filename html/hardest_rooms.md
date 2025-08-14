@@ -2,7 +2,7 @@
 
 **DISCLAIMER:** *All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.*
 
-# Solving the hardest room
+# Solving the hardest rooms
 
 ## What are the Hardest rooms?
 
