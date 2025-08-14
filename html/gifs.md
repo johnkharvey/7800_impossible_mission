@@ -32,3 +32,7 @@
 
 -----------------
 
+![](../gifs/yellow_room_7_floor_walk.gif)
+![](../gifs/yellow_room_7_floor_jump.gif)
+
+-----------------
