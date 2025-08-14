@@ -9,7 +9,7 @@
 
 -----------------
 
-![](..yellow_room_3_second_elevator.gif)
+![](../gifs/yellow_room_3_second_elevator.gif)
 
 -----------------
 
