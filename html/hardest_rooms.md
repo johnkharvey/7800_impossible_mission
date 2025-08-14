@@ -67,7 +67,7 @@ I almost always recommend leaving this chest until all other rooms are cleared. 
 
 This room isn't remotely fair for beginners.  Let's start with some basics.
 
-1. How to cross the floor:
+### How to cross the floor:
 
 You may not believe it, but it is possible to walk across the chasm that makes up the floor as seen below.  They key is to put yourself in the center of every ledge before proceeding to the next ledge.  If you start too close to the edge, you will fall to your death.  This is a costly mistake if it occurs multiple tines.
 
