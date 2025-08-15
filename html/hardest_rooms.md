@@ -86,4 +86,32 @@ You should know that you can jump across the floor, too:
 
 However, this will fail to land you on the Lift in the center of the room.  That said, I always recommend saving this room for much, much later on.  This room is best tackled with at least one or 2 SNOOZES and possibly a LIFT INIT.  If you're not ready, pass on through and come back to it later.  And, if you can avoid this room by going around it, that is also a good strategy.  That said, this room has 7 pieces of furniture in it, making it a high likelihood that there is a puzzle piece within.
 
+--------------
+
+## MORE IMAGES UNSORTED
+
+![](../gifs/yellow_room_7_mid_left1.gif)
+![](../gifs/yellow_room_7_mid_left2.gif)
+
+---------------
+
+![](../gifs/yellow_room_7_top_ledge_success.gif)
+![](../gifs/yellow_room_7_top_ledge_bug_left.gif)
+![](../gifs/yellow_room_7_top_ledge_bug_right.gif)
+
+---------------
+
+![](../gifs/yellow_room_7_top_left_miss_long.gif)
+![](../gifs/yellow_room_7_top_left_miss_part2_long.gif)
+
+---------------
+
+![](../gifs/yellow_room_7_top_left_success_part1.gif)
+![](../gifs/yellow_room_7_top_left_success_part1b.gif)
+![](../gifs/yellow_room_7_top_left_success_part2.gif)
+
+----------------
+
+![](../gifs/yellow_room_7_top_right_fail1.gif)
+
 -----------------
