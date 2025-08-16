@@ -9,6 +9,7 @@
  * Overall [Strategy](./html/strategy.md)
  * Surviving and searching each of the [Rooms](./html/all_rooms.md)
  * Walkthrough Guide for [The Hardest Rooms](./html/hardest_rooms.md)
+ * A guide to [furniture](./html/furniture.md)
  * Solving [Puzzles](./html/puzzles.md)
  * Using the [Phone](./html/phone.md)
  * The [End](./html/ending.md) of the game (SPOILERS!!!)
