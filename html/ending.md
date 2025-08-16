@@ -41,6 +41,5 @@ And... that's it!  You have completed Impossible Mission!
 
 ------------
 
-![Back to the main rooms page](./all_rooms.md)
-
 ![Back to the main page](../README.md)
+

@@ -35,7 +35,5 @@ Snoozes   | 10              | ![](../img/bugs/snoozes10.png)
 
 ------------
 
-![Back to the main rooms page](./all_rooms.md)
-
 ![Back to the main page](../README.md)
 

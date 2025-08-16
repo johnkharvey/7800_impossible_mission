@@ -35,9 +35,5 @@ SHOW RED MARK NEXT TO FLIPPED PIECES
 
 ------------
 
-![Back to the main rooms page](./all_rooms.md)
-
 ![Back to the main page](../README.md)
-
-
 

@@ -59,3 +59,8 @@ There are 126 pieces of furniture scattered throughout the rooms.  In a working 
 <!-- Images are 2,132 / 1316 pixels -->
 <!-- Half = 1066 / 658 -->
 <!-- Quarter = 533 / 329 -->
+
+------------
+
+![Back to the main page](../README.md)
+

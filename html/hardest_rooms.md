@@ -170,5 +170,9 @@ After the complicated furniture has been searched, try to get the furniture in t
 
 For this particular room-- perhaps it is best to finish it last.  If you already have 36 puzzle pieces, you can skip it; and if, you only need a piece or two, you may luck out and not need to search everything.  Be smart about planning, and you can do it!
 
-
 -----------------
+
+![Back to the main rooms page](./all_rooms.md)
+
+![Back to the main page](../README.md)
+
