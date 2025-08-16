@@ -50,7 +50,7 @@ The first way is most likely to cost you a death via the robot near the fireplac
 
 ![](../gifs/yellow_room_3_low_jump.gif)
 
-It's important to note that this requires a PIXEL PERFECT JUMP, with the button pressed from a running start while hovering in the air.  Even a jump pressed right on the edge from a running start will lead to an inevicable miss:
+It's important to note that this requires a PIXEL PERFECT JUMP, with the button pressed from a running start while hovering in the air.  Even a jump pressed right on the edge from a running start will lead to an inevitable miss:
 
 ![](../gifs/yellow_room_3_low_jump_fail.gif)
 
@@ -126,14 +126,43 @@ That said, be careful and make sure that you're on the center of the platform!  
 
 ### How to get to the upper-right piece of furniture
 
-![](../gifs/yellow_room_7_top_ledge_success.gif)
-![](../gifs/yellow_room_7_top_ledge_bug_left.gif)
+This one is also very hard.  The hardest part is that depending on the robot on the top, you may have to use a SNOOZES, and then navigate some tricky jumps, possibly running out of time.  And, when you get there, you still need to check the piece of furniture!
 
-![](../gifs/yellow_room_7_top_ledge_bug_right.gif)
-
----------------
----------------
+Let's start with the "unlikely" method.  You may think that it's possible to continue back from the top-left furniture and jump on the highest ledge to get there.  And, it may look impossible:
 
 ![](../gifs/yellow_room_7_top_right_fail1.gif)
+
+But, it's actually NOT impossible to accomplish this.  You just need a running start and pixel-perfect accuracy:
+
+![](../gifs/yellow_room_7_top_ledge_success.gif)
+
+If you do manage to take this approach, it's time to EXERCISE CAUTION.  You can safely walk / fall to the right to search the furniture.  However, if you choose to jump, you will unlock an unexpected bug that will likely cause your demise.  Here it is, captured in gif form from both directions:
+
+![](../gifs/yellow_room_7_top_ledge_bug_left.gif)
+![](../gifs/yellow_room_7_top_ledge_bug_right.gif)
+
+Due to the fact that a) there's a bug, b) you need a pixel-perfect jump to get here anyway, and c) you likely have burned any time left on your SNOOZES by now if you have searched the left-most piece of furniture, I highly discourage getting to the top-right furniture this way.
+
+Note that you can also reach this ledge from the rightmost side (assuming you have already gotten there):
+
+![](../gifs/yellow_room_7_top_ledge_success2.gif)
+
+
+Instead, a better method is proposed.  Jump from a different ledge.  Unfortunately, this also requires a pixel-perfect run-and-press-jump-while-in-air maneuver.  But, it can be done.  Below are two GIFs showing a successful jump, and one showing coming up short 
+
+![](../gifs/yellow_room_7_top_right_success.gif)
+
+![](../gifs/yellow_room_7_top_right_fail2.gif)
+
+-----------------
+
+### What to do after you have searched the top-left and top-right pieces of furniture
+
+After the complicated furniture has been searched, try to get the furniture in the middle-right section of the screen.  Again, you may need SNOOZES for this to work.  If you make too many mistakes, this room can be VERY costly on SNOOZES and LIFT INITS.  This is why many consider this the most difficult room in the game.
+
+### Final thoughts
+
+For this particular room-- perhaps it is best to finish it last.  If you already have 36 puzzle pieces, you can skip it; and if, you only need a piece or two, you may luck out and not need to search everything.  Be smart about planning, and you can do it!
+
 
 -----------------
