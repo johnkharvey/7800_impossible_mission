@@ -147,7 +147,6 @@ Note that you can also reach this ledge from the rightmost side (assuming you ha
 
 ![](../gifs/yellow_room_7_top_ledge_success2.gif)
 
-
 Instead, a better method is proposed.  Jump from a different ledge.  Unfortunately, this also requires a nearly pixel-perfect run-and-press-jump-while-in-air maneuver.  But, it can be done.  It's not pixel-perfect, but it's very close; below are two slightly different GIFs showing successful jumps.
 
 ![](../gifs/yellow_room_7_top_right_success.gif)

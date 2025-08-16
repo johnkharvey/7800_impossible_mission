@@ -18,7 +18,18 @@ Lift Init | 13              | ![](../img/bugs/lift_init13.png)
 Snoozes   | 9               | ![](../img/bugs/snoozes09.png)
 Snoozes   | 10              | ![](../img/bugs/snoozes10.png)
 
-### Instruction Manual Typos:
+### Yellow Room 7's "ledge bug"
+
+![](../gifs/yellow_room_7_top_ledge_bug_left.gif)
+![](../gifs/yellow_room_7_top_ledge_bug_right.gif) 
+
+### The "runaway robot" in Green Room 8:
+
+![](../gifs/green_room_8_runaway_robot.gif)
+
+---------------
+
+## Instruction Manual Typos:
 
  * In the Instruction manual, under "strategy" it says "rest the lifts" instead of "reset the lifts"
 
