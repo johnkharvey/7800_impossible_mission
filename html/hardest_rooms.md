@@ -148,11 +148,18 @@ Note that you can also reach this ledge from the rightmost side (assuming you ha
 ![](../gifs/yellow_room_7_top_ledge_success2.gif)
 
 
-Instead, a better method is proposed.  Jump from a different ledge.  Unfortunately, this also requires a pixel-perfect run-and-press-jump-while-in-air maneuver.  But, it can be done.  Below are two GIFs showing a successful jump, and one showing coming up short 
+Instead, a better method is proposed.  Jump from a different ledge.  Unfortunately, this also requires a nearly pixel-perfect run-and-press-jump-while-in-air maneuver.  But, it can be done.  It's not pixel-perfect, but it's very close; below are two slightly different GIFs showing successful jumps.
 
 ![](../gifs/yellow_room_7_top_right_success.gif)
+![](../gifs/yellow_room_7_top_right_success2.gif)
+
+Standing jumps will not work:
 
 ![](../gifs/yellow_room_7_top_right_fail2.gif)
+
+Only running starts will get you what you need.
+
+If you do manage to make it up there, you likely only have precious seconds left to search the furniture and avoid the robot.  Be careful!  You don't want to have to waste more SNOOZES.
 
 -----------------
 
