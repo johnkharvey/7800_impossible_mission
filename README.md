@@ -6,10 +6,14 @@
 
 ## Front Page
 
- * Surviving and searching each of the [Rooms](html/all_rooms.md)
- * Solving [Puzzles](html/puzzles.md)
- * Known [Bugs](html/bugs.md)
- * Fun [stuff](html/fun_stuff.md)
+ * Overall [Strategy](./html/strategy.md)
+ * Surviving and searching each of the [Rooms](./html/all_rooms.md)
+ * Walkthrough Guide for [The Hardest Rooms](./html/hardest_rooms.md)
+ * Solving [Puzzles](./html/puzzles.md)
+ * Using the [Phone](./html/phone.md)
+ * The [End](./html/ending.md) of the game (SPOILERS!!!)
+ * Known [Bugs](./html/bugs.md)
+ * [Fun stuff](./html/fun_stuff.md)
 
 ## Useful Links (external)
 
@@ -106,4 +110,7 @@ Question: Is our top number of buttons 14?
 Can we break the game if we get too many Snoozes / Lift Inits?  Cause a buffer overflow?
 You always get a Lift Init first in a Code Room, then after that it alternates
 In the C64 version, Snoozes stop Floating Orbs, but touching them will still kill you.  Same?
+
+SPECIAL THANKS:
+ * https://ezgif.com - this tool is amazing and was incredibly helpful for making GIFs.
 
