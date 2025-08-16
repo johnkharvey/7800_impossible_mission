@@ -122,10 +122,6 @@ That said, be careful and make sure that you're on the center of the platform!  
 
 ![](../gifs/yellow_room_7_top_left_miss_part2_long.gif)
 
-However, if you are just a little bit off, you'll completely miss.  The good news is that you can recover pretty easily from these situations:
-
-![](../gifs/yellow_room_7_top_left_miss_long.gif)
-
 --------------
 
 ### How to get to the upper-right piece of furniture
