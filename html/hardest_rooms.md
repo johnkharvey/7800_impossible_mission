@@ -74,7 +74,7 @@ I almost always recommend leaving this chest until all other rooms are cleared. 
 
 This room isn't remotely fair for beginners.  Let's start with some basics.
 
-### How to cross the floor:
+### How to cross the floor
 
 You may not believe it, but it is possible to walk across the chasm that makes up the floor as seen below.  They key is to put yourself in the center of every ledge before proceeding to the next ledge.  If you start too close to the edge, you will fall to your death.  This is a costly mistake if it occurs multiple tines.
 
@@ -88,7 +88,7 @@ However, this will fail to land you on the Lift in the center of the room.  That
 
 --------------
 
-### How to get to the upper-left piece of furniture.
+### How to get to the upper-left piece of furniture
 
 First, let's talk about how NOT to get there,  You may be surprised to learn that after you have taken the Lift to the top, you CAN jump to the left and land on one of two platforms, depending on where you jump from.  Here are 2 examples of it:
 
@@ -108,20 +108,27 @@ There are 2 places you can successfully jump to the left:
 
 Look carefully at the above GIFS.  The best way to make this jump successfully is to align yourself next to the leftmost furniture before jumping.  If you can line up your left edge with the leftmost edge of the furniture, or even be just a little to the right, you'll make the jump.
 
+That gets you past step one.  Note that if you're just a little bitt off, you'll miss the jump (see below).
+
+![](../gifs/yellow_room_7_top_left_miss_long.gif)
+
+If this happens to you, you can jump back and try again.  The bad news is that if you needed to use a SNOOZES on the robots in order to make the jump, you have precious seconds to try again, and under a lot more stress.  So, you want to be careful and make sure you are lined up next to the furniture properly before making that jump.  Keeping the furniture there for later definitely helps!
+
 From there, you can simply just jump twice and make it to the furniture in the top left:
 
 ![](../gifs/yellow_room_7_top_left_success_part2.gif)
 
+That said, be careful and make sure that you're on the center of the platform!  However, if you are just a little bit off, you'll overshoot. But, you can always recover by jumping back.
+
+![](../gifs/yellow_room_7_top_left_miss_part2_long.gif)
+
 However, if you are just a little bit off, you'll completely miss.  The good news is that you can recover pretty easily from these situations:
 
 ![](../gifs/yellow_room_7_top_left_miss_long.gif)
-![](../gifs/yellow_room_7_top_left_miss_part2_long.gif)
-
-The bad news is that if you needed to use a SNOOZES on the robots in order to make the jump, you have precious seconds to try again, and under a lot more stress.  So, you want to be careful and make sure you're lined up before jumping.  Keeping the furniture there for later definitely helps!
 
 --------------
 
-### How to get to the upper-right piece of furniture.
+### How to get to the upper-right piece of furniture
 
 ![](../gifs/yellow_room_7_top_ledge_success.gif)
 ![](../gifs/yellow_room_7_top_ledge_bug_left.gif)
