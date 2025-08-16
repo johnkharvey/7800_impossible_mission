@@ -88,29 +88,48 @@ However, this will fail to land you on the Lift in the center of the room.  That
 
 --------------
 
-## MORE IMAGES UNSORTED
+### How to get to the upper-left piece of furniture.
+
+First, let's talk about how NOT to get there,  You may be surprised to learn that after you have taken the Lift to the top, you CAN jump to the left and land on one of two platforms, depending on where you jump from.  Here are 2 examples of it:
 
 ![](../gifs/yellow_room_7_mid_left1.gif)
 ![](../gifs/yellow_room_7_mid_left2.gif)
 
----------------
+Unfortuantely, this is a trap!  If you end up on the leftmost side, it's impossible to get back; there is no way to "climb the stairs" to get to the top; all you can really do is walk/fall left or jump back to the right which at best will cost you a LIFT INIT, and at worst will cause you to fall down a hole and die.  The moral of the story is: don't try this, it doesn't do you any good.
 
-![](../gifs/yellow_room_7_top_ledge_success.gif)
-![](../gifs/yellow_room_7_top_ledge_bug_left.gif)
-![](../gifs/yellow_room_7_top_ledge_bug_right.gif)
+Instead, the best approach is to jump to the right where the robot is guarding 3 pieces of furniture, and then jump left 3 times to each platform until you get to the upper-left of the screen.  Is it easy?  No.  But, there are some tricks:
 
----------------
+**Trick number one:** Don't search any furniture until you have cleared the upper-left piece.  Why?  Well, we can use the existing furniture as helpful markers so we can line up our jumps.
+
+There are 2 places you can successfully jump to the left:
+
+![](../gifs/yellow_room_7_top_left_success_part1.gif)
+![](../gifs/yellow_room_7_top_left_success_part1b.gif)
+
+Look carefully at the above GIFS.  The best way to make this jump successfully is to align yourself next to the leftmost furniture before jumping.  If you can line up your left edge with the leftmost edge of the furniture, or even be just a little to the right, you'll make the jump.
+
+From there, you can simply just jump twice and make it to the furniture in the top left:
+
+![](../gifs/yellow_room_7_top_left_success_part2.gif)
+
+However, if you are just a little bit off, you'll completely miss.  The good news is that you can recover pretty easily from these situations:
 
 ![](../gifs/yellow_room_7_top_left_miss_long.gif)
 ![](../gifs/yellow_room_7_top_left_miss_part2_long.gif)
 
+The bad news is that if you needed to use a SNOOZES on the robots in order to make the jump, you have precious seconds to try again, and under a lot more stress.  So, you want to be careful and make sure you're lined up before jumping.  Keeping the furniture there for later definitely helps!
+
+--------------
+
+### How to get to the upper-right piece of furniture.
+
+![](../gifs/yellow_room_7_top_ledge_success.gif)
+![](../gifs/yellow_room_7_top_ledge_bug_left.gif)
+
+![](../gifs/yellow_room_7_top_ledge_bug_right.gif)
+
 ---------------
-
-![](../gifs/yellow_room_7_top_left_success_part1.gif)
-![](../gifs/yellow_room_7_top_left_success_part1b.gif)
-![](../gifs/yellow_room_7_top_left_success_part2.gif)
-
-----------------
+---------------
 
 ![](../gifs/yellow_room_7_top_right_fail1.gif)
 
