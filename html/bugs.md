@@ -1,0 +1,45 @@
+# Atari 7800 Impossible Mission - Walkthrough Guide
+
+**DISCLAIMER:** *All screenshots, etc... are the property of Atari.  Copyright (c) 1989, Atari Corporation.  All rights reserved.*
+
+## In-Game Bugs
+
+### The famous game-ending NTSC bug
+
+ * [Notes from Video 61 about the "bug"](https://forums.atari.io/blogs/entry/546-raiders-of-the-lost-eproms-update/)
+
+### The pointer overflow issue on Lift Inits / Snoozes
+
+| Type    | Number obtained | Screen                           |
+:--------:|:---------------:|:---------------------------------:
+Lift Init | 9               | ![](../img/bugs/lift_init09.png)
+Lift Init | 10              | ![](../img/bugs/lift_init10.png)
+Lift Init | 11              | ![](../img/bugs/lift_init11.png)
+Lift Init | 12              | ![](../img/bugs/lift_init12.png)
+Lift Init | 13              | ![](../img/bugs/lift_init13.png)
+Snoozes   | 9               | ![](../img/bugs/snoozes09.png)
+Snoozes   | 10              | ![](../img/bugs/snoozes10.png)
+
+### Yellow Room 7's "ledge bug"
+
+![](../gifs/yellow_room_7_top_ledge_bug_left.gif)
+![](../gifs/yellow_room_7_top_ledge_bug_right.gif) 
+
+### The "runaway robot" in Green Room 8:
+
+![](../gifs/green_room_8_runaway_robot.gif)
+
+This MAY lead to a game crash:
+
+ * https://www.youtube.com/watch?v=kP4LbGeTIVI&t=555s
+
+---------------
+
+## Instruction Manual Typos:
+
+ * In the Instruction manual, under "strategy" it says "rest the lifts" instead of "reset the lifts"
+
+------------
+
+![Back to the main page](../README.md)
+
