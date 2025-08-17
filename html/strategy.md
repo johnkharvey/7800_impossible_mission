@@ -19,7 +19,7 @@ This should give the avid player something to think about.  Even if it takes 9 m
 
 Next, we should account for other variables just to see how time-bound we really are.
 
-If a player gets all 36 puzzle pieces and doesn't want to waste time with orienting them, they can use the Phone to reorient pieces two at a time.  This translates to 18 phone calls.  Each phone call costs 2 minutes and 12 seconds, but we need to adjust the pieces in view between calls, so we should add another 8 seconds to account for this.  This means each call will cost us 2 minutes and 20 seconds.  In total (when accounting for 18 calls), this adds up to 42 minutes.  That's a precious amount of time taken when you only have 6 hours.  From here, if it takes you 18 minutes to assemble the 9 puncards from the pieces together, that's an hour invested.  This leaves only 5 hours left for game-play.  And, given that there are 32 rooms, that leaves under 10 minutes per room.  Which, over the long haul is less than one death per room to be successful.
+If a player gets all 36 puzzle pieces and doesn't want to waste time with orienting them, they can use the Phone to reorient pieces two at a time.  This translates to 18 phone calls.  Each phone call costs 2 minutes and 12 seconds, but we need to adjust the pieces in view between calls, so we should add another 8 seconds to account for this.  This means each call will cost us 2 minutes and 20 seconds.  In total (when accounting for 18 calls), this adds up to 42 minutes.  That's a precious amount of time taken when you only have 6 hours.  From here, if it takes you 18 minutes to assemble the 9 punchcards from the pieces together, that's an hour invested.  This leaves only 5 hours left for game-play.  And, given that there are 32 rooms, that leaves under 10 minutes per room.  Which, over the long haul is less than one death per room to be successful.
 
 **Conclusion:** This is a game about patience.  Going into a room, finding a safe path through the robots, and incrementally whittling down a piece of furniture until the room is clear is a much better strategy than a haphazard "well, everything will reset anyway" aproach.  If you combine this idea with the fact that some rooms require pixel-perfect jumps to get to certain furniture pieces and that robots have randomly set difficulties per playthrough, you will eventually realize that searching all furniture in all rooms up-front is a bad idea.  Instead, clear the easy rooms and easy furniture first.  Go back for the more difficult ones later.
 
@@ -27,5 +27,9 @@ If a player gets all 36 puzzle pieces and doesn't want to waste time with orient
 
 ------------
 
-![Back to the main page](../README.md)
+Next: Surviving and searching each of the [Rooms](./html/all_rooms.md)
+
+------------
+
+[Back to the main page](../README.md)
 
