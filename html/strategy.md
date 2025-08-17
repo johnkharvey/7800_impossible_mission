@@ -25,14 +25,6 @@ If a player gets all 36 puzzle pieces and doesn't want to waste time with orient
 
 **Remember:** there are only 36 puzzle pieces scattered throughout 126 pieces of furniture.  That makes an expected average of 2 puzzle pieces found for every 7 furniture items.  You don't need to search everything.  You just need to get to 36 puzzle pieces before you're done with the rooms in the game.
 
-###
-
-IN POSSIBLE MISSION DID I MESS UP THE GAME CLOCK?
-
-SHOW RED MARK NEXT TO FLIPPED PIECES
-
-
-
 ------------
 
 ![Back to the main page](../README.md)
