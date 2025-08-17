@@ -56,9 +56,19 @@ There are 126 pieces of furniture scattered throughout the rooms.  In a working 
 :-----------------------------:|:-------------------------------:
 ![](../img/room_screens/code_room_left.png)  |  ![](../img/room_screens/code_room_right.png)
 
+<!-- IF WE NEED TO RESIZE THESE -->
 <!-- Images are 2,132 / 1316 pixels -->
 <!-- Half = 1066 / 658 -->
 <!-- Quarter = 533 / 329 -->
+
+------------
+
+### Elevators
+
+Here are the elevators, in-order:
+**1** | **2** | **3** | **4** | **5** | **6** | **7** | **8**
+:----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-------:
+![](../img/elevators/elevator1.png) | ![](../img/elevators/elevator2.png) | ![](../img/elevators/elevator3.png) | ![](../img/elevators/elevator4.png) | ![](../img/elevators/elevator5.png) | ![](../img/elevators/elevator6.png) | ![](../img/elevators/elevator7.png) | ![](../img/elevators/elevator8.png)
 
 ------------
 
