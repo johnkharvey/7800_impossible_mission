@@ -27,7 +27,7 @@ If a player gets all 36 puzzle pieces and doesn't want to waste time with orient
 
 ------------
 
-Next: Surviving and searching each of the [Rooms](./html/all_rooms.md)
+Next: Surviving and searching each of the [Rooms](./all_rooms.md)
 
 ------------
 
