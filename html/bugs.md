@@ -6,6 +6,8 @@
 
 ### The famous game-ending NTSC bug
 
+ * [Notes from Video 61 about the "bug"](https://forums.atari.io/blogs/entry/546-raiders-of-the-lost-eproms-update/)
+
 ### The pointer overflow issue on Lift Inits / Snoozes
 
 | Type    | Number obtained | Screen                           |
@@ -26,6 +28,10 @@ Snoozes   | 10              | ![](../img/bugs/snoozes10.png)
 ### The "runaway robot" in Green Room 8:
 
 ![](../gifs/green_room_8_runaway_robot.gif)
+
+This MAY lead to a game crash:
+
+ * https://www.youtube.com/watch?v=kP4LbGeTIVI&t=555s
 
 ---------------
 
