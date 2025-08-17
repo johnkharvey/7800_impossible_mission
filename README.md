@@ -77,7 +77,7 @@ Guide
  - SUBTOTAL: 28
  - TOTAL: 126 pieces of furniture, 36 which have puzzle pieces (in a working game).  2 pieces for every 7 furniture items (expected)
 
-HOW LONG DO SNOOZES WORK FOR?
+HOW LONG DO SNOOZES WORK FOR?  Do they start only after you leave the terminal?
 HOW LONG TO SEARCH EVERY FURNITURE PIECE?
 
 ## Interesting things in the Instruction Manual:
@@ -114,4 +114,8 @@ In the C64 version, Snoozes stop Floating Orbs, but touching them will still kil
 
 SPECIAL THANKS:
  * https://ezgif.com - this tool is amazing and was incredibly helpful for making GIFs.
+
+LONGPLAYS
+Reviews
+ * https://atariage.com/magazines/magazine_page.php?MagazineID=13&CurrentPage=14 (Atarian Magazine)
 
