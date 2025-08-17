@@ -12,10 +12,6 @@ Looking at the [Instruction Manual](https://www.thegameisafootarcade.com/wp-cont
 
 Here are the individual pieces with a guess as to what they are supposed to be.
 
-![](../img/furniture/all_furtniture.png)
-
-And, here they are divided:
-
 | Number | Image | Name | Search Time
 :-------:|:-----:|:----:|:-------------:
 | **1**  | ![](../img/furniture/furn_01.png) | Terminal | (N/A)
