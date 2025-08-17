@@ -12,8 +12,8 @@
  * A guide to [furniture](./html/furniture.md)
  * Solving [Puzzles](./html/puzzles.md)
  * Using the [Phone](./html/phone.md)
- * The [End](./html/ending.md) of the game (SPOILERS!!!)
- * Known [Bugs](./html/bugs.md)
+ * [The End](./html/ending.md) of the game (SPOILERS!!!)
+ * [Known Bugs](./html/bugs.md)
 
 ## Longplays to Completion:
 

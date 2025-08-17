@@ -18,5 +18,9 @@ Don't accidentally dial twice!
 
 ------------
 
-![Back to the main page](../README.md)
+Next: [The End](./ending.md) of the game (SPOILERS!!!)
+
+------------
+
+[Back to the main page](../README.md)
 

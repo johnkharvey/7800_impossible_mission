@@ -41,5 +41,9 @@ And... that's it!  You have completed Impossible Mission!
 
 ------------
 
-![Back to the main page](../README.md)
+Next: [Known Bugs](./bugs.md)
+
+------------
+
+[Back to the main page](../README.md)
 

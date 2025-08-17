@@ -124,5 +124,9 @@ None of this would have been possible without the following links:
 
 -------------------
 
-![Back to the main page](../README.md)
+Next: Using the [Phone](./phone.md)
+
+-------------------
+
+[Back to the main page](../README.md)
 

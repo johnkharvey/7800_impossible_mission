@@ -172,7 +172,11 @@ For this particular room-- perhaps it is best to finish it last.  If you already
 
 -----------------
 
-![Back to the main rooms page](./all_rooms.md)
+Next: A guide to [furniture](./furniture.md)
 
-![Back to the main page](../README.md)
+-----------------
+
+[Back to the main rooms page](./all_rooms.md)
+
+[Back to the main page](../README.md)
 

@@ -48,5 +48,9 @@ Here are the individual pieces with a guess as to what they are supposed to be.
 
 ------------
 
-![Back to the main page](../README.md)
+Next: Solving [Puzzles](./puzzles.md)
+
+------------
+
+[Back to the main page](../README.md)
 

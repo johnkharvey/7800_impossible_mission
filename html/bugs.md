@@ -41,5 +41,5 @@ This MAY lead to a game crash:
 
 ------------
 
-![Back to the main page](../README.md)
+[Back to the main page](../README.md)
 

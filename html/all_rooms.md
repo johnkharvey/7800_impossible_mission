@@ -72,5 +72,9 @@ Here are the elevators, in-order:
 
 ------------
 
-![Back to the main page](../README.md)
+Next: Walkthrough Guide for [The Hardest Rooms](./hardest_rooms.md)
+
+------------
+
+[Back to the main page](../README.md)
 
