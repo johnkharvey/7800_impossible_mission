@@ -11,7 +11,7 @@ Let's break this down via a Top Ten List.
 
 ## NUMBER SIX: Blue Room 8.
 
-# I always need to use a few Snoozes here
+I always need to use a few Snoozes here
 
 ## NUMBER FIVE: Yellow Room 4.
 
