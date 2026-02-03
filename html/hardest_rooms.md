@@ -44,6 +44,10 @@ However, there is a secret.  You have to walk between each level, stop, center y
 
 Does the above shuffle-step work?  Yes.  Is it worth it?  Maybe not.  I usually save this room for later; if I am missing puzzle pieces I will enter this room with a few LIFT INITS just in case.  Your pulse may be pounding when walking across the chasm, but take your time.  It can be done!  You just have to know the trick.
 
+Also, as a fun tip - this trip is listed in the manual itself:
+
+![](../img/manual/manual_tip4.png)
+
 -----------------
 
 ## NUMBER TWO: Yellow Room 3.
