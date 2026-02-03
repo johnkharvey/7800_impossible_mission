@@ -9,6 +9,18 @@
 Let's break this down via a Top Ten List.
 
 
+## NUMBER SIX: Blue Room 8.
+
+# I always need to use a few Snoozes here
+
+## NUMBER FIVE: Yellow Room 4.
+
+If the robots aren't cooperative, you'll find yourself with many hard jumps over both the robots and the holes.
+
+## NUMBER SIX: Blue Room 9.
+
+This one has an insanely difficult couple of jumps.
+
 ------------------
 
 ![](../gifs/blue_room_9_easy_way.gif)
