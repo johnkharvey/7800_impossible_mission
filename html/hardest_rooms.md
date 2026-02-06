@@ -19,7 +19,7 @@ If the robots aren't cooperative, you'll find yourself with many hard jumps over
 
 ## NUMBER SIX: Blue Room 9.
 
-This one has an insanely difficult couple of jumps.
+This one has a couple of insanely difficult jumps.
 
 ------------------
 
@@ -124,7 +124,7 @@ There are 2 places you can successfully jump to the left:
 
 Look carefully at the above GIFS.  The best way to make this jump successfully is to align yourself next to the leftmost furniture before jumping.  If you can line up your left edge with the leftmost edge of the furniture, or even be just a little to the right, you'll make the jump.
 
-That gets you past step one.  Note that if you're just a little bitt off, you'll miss the jump (see below).
+That gets you past step one.  Note that if you're just a little bit off, you'll miss the jump (see below).
 
 ![](../gifs/yellow_room_7_top_left_miss_long.gif)
 
